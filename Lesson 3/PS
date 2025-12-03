@@ -1,0 +1,10 @@
+Example Original Array:
+
+Inorder = Left, Root, Right
+Eg. Sorted (A, B, G, K, M, O, P)
+
+PreOrder = Root, Left, Right
+Eg. Root first (M, A, B, P, G, K, O)
+
+PostOrder = Left, Right, Root
+Eg. Root last (B, A, K, O, G, P, M)
