@@ -1,6 +1,6 @@
 # 📚 My Learning Journey – DSA 2025
 
-Welcome to my public repository where I document the lessons, and exercises I’ve completed throughout this semester.  
+Welcome to my public repository where I document the lessons, and exercises I’ve completed throughout this semester.
 This repo serves as a personal knowledge base and a transparent record of my growth in Data Structures.
 
 ---
@@ -15,13 +15,17 @@ This repo serves as a personal knowledge base and a transparent record of my gro
 
 ## 📁 Repository Structure
 
-Each folder or module represents a topic covered during the semester.  
-Inside, you’ll find:
+Each folder corresponds to a major lesson covered this semester.  
+Inside each lesson folder, you'll typically find:
+
+- **Activities from Codechum** – Filenamed as `Item 1`, `Item 2`, etc.
+- **Variation Exercises** – Filenamed as `Variation 1`, `Variation 2`, etc.
+- **Other Sources** – Code from references or external resources is clearly marked with `// Code Not Mine`.
 
 ```
-├── Lesson 1 - ADT, Cursor Based, Stack and Queue
-├── Lesson 2 - Dictionary and Sets
-├── Lesson 3 - Trees and Graphs
+├── Lesson 1 - ADT, Cursor Based, Stack and Queue/
+├── Lesson 2 - Dictionary and Sets/
+├── Lesson 3 - Trees and Graphs/
 └── README.md
 ```
 
@@ -30,28 +34,28 @@ Inside, you’ll find:
 ## 🧠 Topics Covered
 
 ### Lesson 1
-- **ADT (Abstract Data Types)**  
-  - ArrayList  
+- **ADT (Abstract Data Types)**
+  - ArrayList
   - LinkedList
 - **Cursor-Based Implementation**
-- **Stack and Queue**  
-  - Stack  
-  - Queue  
+- **Stack and Queue**
+  - Stack
+  - Queue
 
 ### Lesson 2
-- **Dictionary / Map Implementations**  
-  - Open Hashing  
-  - Close Hashing  
-  - Cursor-Based Dictionary  
-- **Set Implementations**  
-  - Tree Set  
-  - Hash Set  
+- **Dictionary / Map Implementations**
+  - Open Hashing
+  - Close Hashing
+  - Cursor-Based Dictionary
+- **Set Implementations**
+  - Tree Set
+  - Hash Set
 
 ### Lesson 3
-- **Trees**  
-  - Tree Structures  
-  - Binary Search Tree (BST)  
-- **Graphs**  
+- **Trees**
+  - Tree Structures
+  - Binary Search Tree (BST)
+- **Graphs**
 
 ---
 
