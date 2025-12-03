@@ -16,11 +16,8 @@ This repo serves as a personal knowledge base and a transparent record of my gro
 ## 📁 Repository Structure
 
 Each folder or module represents a topic covered during the semester.  
-Inside, you’ll typically find:
+Inside, you’ll find:
 
-- Code implementations
-
-Example structure:
 ```
 ├── Lesson 1 - ADT, Cursor Based, Stack and Queue
 ├── Lesson 2 - Dictionary and Sets
@@ -35,9 +32,9 @@ Example structure:
 ### Lesson 1
 - **ADT (Abstract Data Types)**  
   - ArrayList  
-  - LinkedList  
-  - Cursor-Based Implementation  
-- **Linear Data Structures**  
+  - LinkedList
+- **Cursor-Based Implementation**
+- **Stack and Queue**  
   - Stack  
   - Queue  
 
@@ -55,12 +52,6 @@ Example structure:
   - Tree Structures  
   - Binary Search Tree (BST)  
 - **Graphs**  
-  - Connected & Completed Graphs  
-  - Undirected & Directed Graphs  
-  - Simple Path (Simple Cycle, Cyclic & Acyclic Graphs)  
-  - Incident, Indegree & Outdegree  
-  - Weighted & Labeled Graphs  
-  - Representations: Adjacency Matrix & Adjacency List
 
 ---
 
@@ -90,5 +81,4 @@ You can reach me via:
 
 ---
 
-**Thanks for visiting!**  
-*Keep learning, one commit at a time.* 😊
+**Thanks for visiting!** 😊
