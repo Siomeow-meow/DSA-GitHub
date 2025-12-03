@@ -23,6 +23,7 @@ typedef struct {
  * Creates empty dictionary
  * WHY? Same as set but stores key-value pairs
  */
+
 Dictionary* create_dict() {
     Dictionary *dict = (Dictionary*)malloc(sizeof(Dictionary));
     dict->buckets = (DictNode**)calloc(TABLE_SIZE, sizeof(DictNode*));
