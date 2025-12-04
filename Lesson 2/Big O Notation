@@ -15,3 +15,5 @@ O(1) -> no loops, direct
 O(N) -> one loop usually
 O(N^2) -> two nested loops usually
 O(log N) -> no neccessarily recursion, could be iterative halving
+
+Recursion can be O(N) or O(N^2) or O(log N)
