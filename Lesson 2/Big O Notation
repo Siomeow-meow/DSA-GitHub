@@ -1,0 +1,17 @@
+Quick Summmary Table
+
+Big-O               Common Pattern                          Example
+--------------------------------------------------------------------------------
+O(1)                No loops, direct access                 Array index lookup
+O(N)                One loop over N items                   Linear Search
+O(N^2)              Two nested loops over N items           Bubble Sort
+O(log N)            Divide problem in half each step        Binary Search
+
+
+
+=== Quick Summary Table ===
+
+O(1) -> no loops, direct
+O(N) -> one loop usually
+O(N^2) -> two nested loops usually
+O(log N) -> no neccessarily recursion, could be iterative halving
